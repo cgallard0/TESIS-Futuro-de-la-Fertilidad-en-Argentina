@@ -1,0 +1,6 @@
+especificacion,R2,RMSE,MAE
+MCO,0.376,1.055,0.766
+Lasso,0.3762,1.054,0.764
+Ridge,0.376,1.055,0.766
+Random Forest,0.4025,1.032,0.708
+XGBoost,0.4042,1.031,0.706

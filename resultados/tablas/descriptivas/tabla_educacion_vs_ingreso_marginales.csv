@@ -1,0 +1,9 @@
+eje,grupo,var_rel_ponderada
+clima_educativo,Clima bajo (<11 años),-0.18642848120950178
+clima_educativo,Clima medio (11-14),-0.21911492447737263
+clima_educativo,Clima alto (14 o más),-0.44387552628797344
+clima_educativo,RANGO,0.25744704507847166
+estrato_ingreso,Ing. bajo (D1-D3),-0.27452228204909956
+estrato_ingreso,Ing. medio (D4-D7),-0.19598868507226777
+estrato_ingreso,Ing. alto (D8-D10),-0.22697398681297162
+estrato_ingreso,RANGO,0.0785335969768318

@@ -1,0 +1,8 @@
+vector,evento,tasa_base,ROC,PR,Brier,log_loss
+Fertilidad,Hijo en el último año,0.041,0.809,0.145,0.037,0.148
+Empleo,Ocupada,0.572,0.794,0.822,0.182,0.542
+Emparejamiento,En pareja,0.486,0.769,0.695,0.187,0.547
+Emparejamiento,Pareja ocupada,0.942,0.68,0.968,0.054,0.214
+Emparejamiento,Clima educativo (5 clases),,,,0.547,0.939
+Educación,Permanencia en el sistema,0.335,0.989,0.983,0.033,0.116
+Educación,Nivel máximo (7 clases),,,,0.6,1.171

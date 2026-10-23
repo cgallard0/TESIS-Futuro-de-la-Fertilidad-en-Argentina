@@ -1,0 +1,26 @@
+Jurisdiccion,Poblacion,Nacimientos
+REPUBLICA ARGENTINA,46.301.743,413.135
+Ciud. Aut. de Buenos Aires,3.093.735,21.454
+Buenos Aires,17.431.446,147.081
+Catamarca,437.508,3.866
+Córdoba,3.946.289,33.873
+Corrientes,1.199.120,12.538
+Chaco,1.200.849,14.350
+Chubut,600.674,5.054
+Entre Ríos,1.456.015,12.548
+Formosa,624.461,6.711
+Jujuy,798.673,6.352
+La Pampa,375.873,3.039
+La Rioja,401.843,3.503
+Mendoza,2.042.241,18.505
+Misiones,1.333.633,16.469
+Neuquén,698.410,6.790
+Río Negro,784.591,6.721
+Salta,1.480.327,14.410
+San Juan,845.201,8.701
+San Luis,533.465,4.410
+Santa Cruz,334.752,2.696
+Santa Fe,3.679.597,33.713
+Santiago del Estero,1.053.409,11.401
+Tucumán,1.768.368,16.661
+Tierra del Fuego,181.263,1.259
